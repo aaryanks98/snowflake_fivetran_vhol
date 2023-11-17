@@ -7,7 +7,7 @@ DBA MODE
 --A--
 -----
 --Let's set our worksheet role and db/schema
-use role ACCOUNTADMIN;
+--use role ACCOUNTADMIN;
 use schema PC_FIVETRAN_DB.GOOGLE_ADS_DBT;
 
 
